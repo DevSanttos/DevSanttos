@@ -12,3 +12,5 @@
 - 🧠 I love solving problems and finding creative solutions.
 
 - 🎯 Looking for my first job opportunity in the tech industry.
+
+- 🔔 Follow me to join my journey and connect with a proactive software engineering student!
