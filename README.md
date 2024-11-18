@@ -7,7 +7,7 @@
 
 - 👨‍🎓 Software Engineering student at UDESC - Ceavi, passionate about programming.
 
-- 💻 Knowledge in JAVA, HTML, CSS.
+- 💻 Knowledge in MySQL, JAVA, HTML, CSS.
 
 - 🧠 I love solving problems and finding creative solutions.
 
