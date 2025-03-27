@@ -3,7 +3,7 @@
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/DevSanttos/27b14444b3cc7e62757cd645d5f93b84/raw/c059492d7db3c928321e66025439fe98d141925c/githubimage.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevSanttos&color=1E90FF" alt="Profile views" /> </p>
 
-- 🚀 Beginner in the programming world, but with a lot of dedication and proactivity.
+- 🚀 With growing experience in programming, always striving to expand and enhance my knowledge in a proactive and dedicated manner.
 
 - 👨‍🎓 Software Engineering student at UDESC - Ceavi, passionate about programming.
 
@@ -17,13 +17,16 @@
 
 <h3 align="left">🛠️ My Stack</h3>
 <div align="left">
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png height="25" alt="figma icon" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png height="25" alt="figma icon" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png height="25" alt="figma icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png height="25" alt="figma icon" />
 </div>
 
 <br><br>
