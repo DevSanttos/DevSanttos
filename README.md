@@ -7,7 +7,7 @@
 
 - 👨‍🎓 Software Engineering student at UDESC - Ceavi, passionate about programming.
 
-- 💻 Knowledge in MySQL, JAVA, HTML, CSS.
+- 💻 Knowledge in SQL, JAVA, HTML, CSS, JS.
 
 - 🧠 I love solving problems and finding creative solutions.
 
@@ -23,7 +23,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" 
+  <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 </div>
 
 <br><br>
