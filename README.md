@@ -17,8 +17,7 @@
 
 <h3 align="left">🛠️ My Stack</h3>
 <div align="left">
-  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png height="25" alt="figma icon" />
-  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png height="25" alt="figma icon" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png height="25" alt=postgresql image"" />
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png height="25" alt="figma icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
