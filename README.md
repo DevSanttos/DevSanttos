@@ -28,7 +28,23 @@
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png height="25" alt="figma icon" />
 </div>
 
-<br><br>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevSanttos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1E90FF&hide=html,scss,less&bg_color=000&text_color=1E90FF&border_radius=3&border_color=1E90FF&count_private=true" alt="Most Used Languages">
+<br>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevSanttos&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=1E90FF&text_color=FFF&border_radius=3&border_color=1E90FF&icon_color=1E90FF&theme=jolly" alt="GitHub stats">
+ ### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DevSanttos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSanttos&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
