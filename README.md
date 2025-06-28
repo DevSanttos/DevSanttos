@@ -31,6 +31,7 @@
 <br>
 
  ### 📊 Estatísticas
+<br>
 
 <p>
   <img 
