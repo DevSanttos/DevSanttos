@@ -18,6 +18,7 @@
 <h3 align="left">🛠️ My Stack</h3>
 <div align="left">
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png height="25" alt=postgresql image"" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png height="25" alt=postgresql image"" />
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png height="25" alt="figma icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
@@ -26,6 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png height="25" alt="figma icon" />
+  <img width="8" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png height="25" alt="figma icon" />
+  <img width="8" />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png height="25" alt="figma icon" />
+  
 </div>
 
 <br>
